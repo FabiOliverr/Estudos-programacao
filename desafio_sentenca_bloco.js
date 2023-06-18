@@ -36,6 +36,6 @@ let bloco_2 = 2;
     console.log(8);
     console.log(10);
 }
-
+// feito desafio onde aprendi a fazer blocos de dados e dentro deles, sentenças que formam os blocos de dados.
 
 
