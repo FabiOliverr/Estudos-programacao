@@ -15,3 +15,4 @@ let CaixaFeijao = 15
 let ValorProdutoComposto = feijao * CaixaFeijao;
 
 console.log("o Valor de uma caixa com 12 unidades de capotes de feijao é " + ValorProdutoComposto);
+ 
