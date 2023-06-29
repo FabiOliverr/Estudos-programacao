@@ -6,5 +6,6 @@ for (var i = 0; i < 10; i++) {
     })
 }
 
-funcs[2]();
-funcs[8]();
+funcs[3]();
+funcs[5]();
+funcs [8]();
